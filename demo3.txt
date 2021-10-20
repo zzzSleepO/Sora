@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>
+	</title>
+</head>
+<body>
+	<table width="100%">
+		<tr>
+			<td width="15%" bgcolor="blue"></td>
+			<td align="center">
+				<font color="blue">
+				<img src="C:\Users\rayze\OneDrive\Hình ảnh\Saved Pictures\92038536_p0_master1200.jpg" width="50%" height="300">
+				<br>
+				<b>sayu SAYU sayu SAYU sayu</b>
+				<br> SAYU sayu  sayu SAYU sayu SAYU sayu 
+				<br>SAYU sayu SAYUsayu SAYU <b>sayu</b> SAYU 
+				<br>sayu SAYU sayu SAYUsayu SAYU 
+				<br>
+					<table  border="1">
+						<tr>
+							<td align="center">
+								<img src="C:\Users\rayze\OneDrive\Hình ảnh\Saved Pictures\93075167_p0_master1200.jpg" height="250">
+							</td>
+
+							<td>
+								<img src="C:\Users\rayze\OneDrive\Hình ảnh\Saved Pictures\93075167_p0_master1200.jpg" height="250">
+							</td>
+						</tr>
+						<tr>
+							<td align="center">
+								Ei EI IE EI<b>Ei</b>
+
+								
+							</td>
+						
+						
+							<td align="center">
+								Ei EI IE EI<b>Ei</b>
+							</td>
+						</tr>
+					</table>
+				<br>
+				<p align="center">
+					how could you love her ?
+					<font color="red">
+						<u>
+							Hutao
+						</u>
+						
+					</font>
+				</p>
+				<br>
+				</font>
+			<table width="80%">
+				<tr>
+					<td align="center">
+						<img src="C:\Users\rayze\OneDrive\Hình ảnh\Saved Pictures\89629266_p0_master1200.jpg" width="100">
+						
+					</td>
+					<td align="center">
+						<img src="C:\Users\rayze\OneDrive\Hình ảnh\Saved Pictures\89629266_p0_master1200.jpg" width="100">
+						
+					</td>
+					<td align="center">
+						<img src="C:\Users\rayze\OneDrive\Hình ảnh\Saved Pictures\89629266_p0_master1200.jpg" width="100">
+						
+					</td>
+				</tr>
+				
+				
+			</table>
+			<p align="center">
+				huteaooawiefhakfh
+				<br>
+					-asdhaksdas-
+				
+			</p>
+			</td>
+			
+			<td width="15%" bgcolor="blue"></td>
+		</tr>
+
+	</table>
+</body>
+</html>
